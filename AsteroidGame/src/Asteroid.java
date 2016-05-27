@@ -1,5 +1,3 @@
-package asteroidgame;
-
 import java.awt.geom.Rectangle2D;
 
 public class Asteroid extends Rectangle2D
@@ -18,7 +16,7 @@ public class Asteroid extends Rectangle2D
         x = (int) Math.ceil(Math.random() * 50);
         y = (int) Math.ceil(Math.random() * 50);
         
-        width = 
+        //width = 
     }
 
     @Override

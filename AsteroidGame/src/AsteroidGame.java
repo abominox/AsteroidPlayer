@@ -1,5 +1,3 @@
-package asteroidgame;
-
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class AsteroidGame {
