@@ -12,4 +12,9 @@
 hs_err_pid*
 /JavaApplication5/nbproject/private/
 /AsteroidGame/nbproject/private/
+<<<<<<< HEAD
 /AsteroidGame/build/
+=======
+/asteroidgame/nbproject/private/
+/asteroidgame/build/
+>>>>>>> origin/master
