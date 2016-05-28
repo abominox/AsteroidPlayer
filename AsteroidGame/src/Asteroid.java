@@ -36,7 +36,7 @@ public class Asteroid extends Rectangle2D
 
     @Override
     public double getWidth() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        return x * y;
     }
 
     @Override
