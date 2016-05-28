@@ -10,8 +10,7 @@ class AsteroidFrame extends JFrame
     setVisible(true);
 
     setLayout(new BorderLayout());
-    setContentPane(new JLabel(new ImageIcon("/Users/christophermarquart/NetBeansProjects/AsteroidPlayer/asteroidgame/Media/star.jpg"))); //MAC OSX
-//    setContentPane(new JLabel(new ImageIcon("C:/Users/Christopher/Documents/NetBeansProjects/AsteroidPlayer/AsteroidGame/Media"))); //Windows
+    setContentPane(new JLabel(new ImageIcon("/Users/christophermarquart/NetBeansProjects/AsteroidPlayer/asteroidgame/Media/star.jpg")));
     setLayout(new FlowLayout());
     setSize(640, 480);
     }
