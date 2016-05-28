@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+
 class AsteroidFrame extends JFrame
 {
     public AsteroidFrame()
