@@ -25,42 +25,50 @@ public class Asteroid extends Rectangle2D
     }
 
     @Override
-    public double getX() {
+    public double getX() 
+    {
         return x;
     }
 
     @Override
-    public double getY() {
+    public double getY() 
+    {
         return y;
     }
 
     @Override
-    public double getWidth() {
+    public double getWidth() 
+    {
         return x * y;
     }
 
     @Override
-    public double getHeight() {
+    public double getHeight() 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override
-    public boolean isEmpty() {
+    public boolean isEmpty() 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
     @Override
-    public Rectangle2D createUnion(Rectangle2D r) {
+    public Rectangle2D createUnion(Rectangle2D r) 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
     @Override
-    public Rectangle2D createIntersection(Rectangle2D r) {
+    public Rectangle2D createIntersection(Rectangle2D r) 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
     @Override
-    public int outcode(double x, double y) {
+    public int outcode(double x, double y) 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }

@@ -8,7 +8,8 @@ import java.awt.event.*;
 handles user input (event handling), and wraps the game 
 into a Java web applet. */
 
-public class AsteroidGame extends Applet {
+public class AsteroidGame extends Applet 
+{
     
     @Override
     public void init () 
