@@ -20,7 +20,8 @@ public class Asteroid extends Rectangle2D
     }
 
     @Override
-    public void setRect(double x, double y, double w, double h) {
+    public void setRect(double x, double y, double w, double h) 
+    {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
